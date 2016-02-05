@@ -3,9 +3,6 @@
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content.item</item>
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content\Home.item</item>
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content\l.item</item>
-  <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content\l\ll.item</item>
-  <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content\l\TdsTemplate - Copy - Copy.item</item>
-  <item ItemDeployment="DeployOnce" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\content\l\TdsTemplate - Copy.item</item>
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\content\New TdsTemplate.item</item>
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\content\New TdsTemplate\2016.item</item>
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\content\New TdsTemplate\2016\02.item</item>
@@ -24,8 +21,16 @@
   <item ItemDeployment="DeployOnce" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\content\TdsTemplatenonB\2016\02\04\13\33\TdsTemplate.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="NoChildSynchronization" DeployAlwaysFields="">sitecore\templates.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template\Test.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template\Test\First.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template\Test\Fourth.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template\Test\Second.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\A new Template\Test\Third.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate\__Standard Values.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate\Test.item</item>
   <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate\Test\Testing.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate\Test\Wup.item</item>
+  <item ItemDeployment="AlwaysUpdate" ChildItemSynchronization="KeepAllChildrenSynchronized" DeployAlwaysFields="">sitecore\templates\Testing\TdsTemplate\Test\Wurf.item</item>
 </items>

@@ -56,7 +56,7 @@
     <PackageExcludeCode>False</PackageExcludeCode>
     <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
     <NuGetGenerateNuGetPackage>True</NuGetGenerateNuGetPackage>
-    <NuGetExePath>D:\TDSTesting\TDSTesting\packages\NuGet.CommandLine.3.3.0\tools</NuGetExePath>
+    <NuGetExePath>D:\TDS\packages\NuGet.CommandLine.3.3.0\tools</NuGetExePath>
     <NuGetSummary />
     <NuGetDescription>Testing</NuGetDescription>
     <NuGetTitle>Testing</NuGetTitle>
