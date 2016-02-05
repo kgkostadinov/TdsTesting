@@ -37,4 +37,12 @@
   <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Second" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
   <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Third" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
   <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Fourth" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/First" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Second" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Third" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate/Test/Wup" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/A new Template/Test/Fourthh" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate/Test/ASDF" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
 </ItemIconCache>

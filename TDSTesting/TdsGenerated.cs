@@ -83,14 +83,14 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 					string First  {get; set;}
 			
 								/// <summary>
-					/// The Fourth field.
+					/// The Fourthh field.
 					/// <para></para>
 					/// <para>Field Type: Single-Line Text</para>		
 					/// <para>Field ID: 27e6f98a-a6ba-4e1f-874f-e1b5414bec80</para>
 					/// <para>Custom Data: </para>
 					/// </summary>
-					[SitecoreField(IA_New_TemplateConstants.FourthFieldName)]
-					string Fourth  {get; set;}
+					[SitecoreField(IA_New_TemplateConstants.FourthhFieldName)]
+					string Fourthh  {get; set;}
 			
 								/// <summary>
 					/// The Second field.
@@ -126,8 +126,8 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 			public const string FirstFieldName = "First";
 			
 					
-			public static readonly ID FourthFieldId = new ID("27e6f98a-a6ba-4e1f-874f-e1b5414bec80");
-			public const string FourthFieldName = "Fourth";
+			public static readonly ID FourthhFieldId = new ID("27e6f98a-a6ba-4e1f-874f-e1b5414bec80");
+			public const string FourthhFieldName = "Fourthh";
 			
 					
 			public static readonly ID SecondFieldId = new ID("30530e87-81d5-4b65-9d89-2f9a608a5262");
@@ -164,15 +164,15 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 				public virtual string First  {get; set;}
 					
 						/// <summary>
-				/// The Fourth field.
+				/// The Fourthh field.
 				/// <para></para>
 				/// <para>Field Type: Single-Line Text</para>		
 				/// <para>Field ID: 27e6f98a-a6ba-4e1f-874f-e1b5414bec80</para>
 				/// <para>Custom Data: </para>
 				/// </summary>
 				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
-				[SitecoreField(IA_New_TemplateConstants.FourthFieldName)]
-				public virtual string Fourth  {get; set;}
+				[SitecoreField(IA_New_TemplateConstants.FourthhFieldName)]
+				public virtual string Fourthh  {get; set;}
 					
 						/// <summary>
 				/// The Second field.
@@ -213,6 +213,16 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 	public partial interface ITdsTemplate : IGlassBase 
 	{
 								/// <summary>
+					/// The ASDF field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: dea28280-33ad-431b-8f5b-a8bba3980560</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(ITdsTemplateConstants.ASDFFieldName)]
+					string ASDF  {get; set;}
+			
+								/// <summary>
 					/// The Testing field.
 					/// <para></para>
 					/// <para>Field Type: Single-Line Text</para>		
@@ -252,6 +262,10 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 			public const string TemplateName = "TdsTemplate";
 
 					
+			public static readonly ID ASDFFieldId = new ID("dea28280-33ad-431b-8f5b-a8bba3980560");
+			public const string ASDFFieldName = "ASDF";
+			
+					
 			public static readonly ID TestingFieldId = new ID("85721cb6-cc1e-4e12-b222-f2479cfc284f");
 			public const string TestingFieldName = "Testing";
 			
@@ -278,6 +292,17 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 	public partial class TdsTemplate  : GlassBase, ITdsTemplate 
 	{
 	   
+						/// <summary>
+				/// The ASDF field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: dea28280-33ad-431b-8f5b-a8bba3980560</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITdsTemplateConstants.ASDFFieldName)]
+				public virtual string ASDF  {get; set;}
+					
 						/// <summary>
 				/// The Testing field.
 				/// <para></para>
