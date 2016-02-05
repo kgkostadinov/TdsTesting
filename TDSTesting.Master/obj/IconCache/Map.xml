@@ -30,4 +30,6 @@
   <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
   <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33/5555" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
   <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/form_blue.png" />
 </ItemIconCache>
