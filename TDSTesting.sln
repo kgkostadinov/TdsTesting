@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDSTesting", "TDSTesting\TD
 EndProject
 Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSTesting.Master", "TDSTesting.Master\TDSTesting.Master.scproj", "{2C13A5CF-151D-4D70-99ED-21662CFD6933}"
 EndProject
-Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDSProject1", "TDSProject1\TDSProject1.scproj", "{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,12 +23,6 @@ Global
 		{2C13A5CF-151D-4D70-99ED-21662CFD6933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C13A5CF-151D-4D70-99ED-21662CFD6933}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2C13A5CF-151D-4D70-99ED-21662CFD6933}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2BA6E74D-5DD7-4039-B0F2-5B497FF658FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
