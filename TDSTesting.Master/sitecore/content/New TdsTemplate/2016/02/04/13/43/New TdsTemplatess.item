@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {1D57346C-96B0-4BE7-935E-DB1637C91B11}
+database: master
+path: /sitecore/content/New TdsTemplate/2016/02/04/13/43/New TdsTemplatess
+parent: {9A6176F4-D2E5-4048-9518-4CAE5986D7EF}
+name: New TdsTemplatess
+master: {00000000-0000-0000-0000-000000000000}
+template: {FD6AA65C-DA67-4E3C-A93B-7C61C658114E}
+templatekey: TdsTemplate
+
+----field----
+field: {9DAFCA1D-D618-4616-86B8-A8ACD6B28A63}
+name: __Bucket Parent Reference
+key: __bucket parent reference
+content-length: 38
+
+{8697A5BB-DF68-4586-88BF-BF4513631C82}
+----version----
+language: en
+version: 1
+revision: 4d659bf3-819d-4c62-ac38-6116cbbeb14c
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160204T134340Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4d659bf3-819d-4c62-ac38-6116cbbeb14c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160204T134349Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 17
+
+default\Anonymous

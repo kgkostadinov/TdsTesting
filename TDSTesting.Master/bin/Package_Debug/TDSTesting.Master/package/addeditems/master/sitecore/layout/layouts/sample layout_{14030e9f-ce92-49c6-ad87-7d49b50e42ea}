@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addItemCommand>
+  <collisionbehavior>
+    <overwriteExisting>true</overwriteExisting>
+  </collisionbehavior>
+  <databasename>master</databasename>
+  <itemid>{14030E9F-CE92-49C6-AD87-7D49B50E42EA}</itemid>
+  <itempath>/sitecore/layout/Layouts/Sample Layout</itempath>
+  <parent>{75CC5CE4-8979-4008-9D3C-806477D57619}</parent>
+  <item>
+    <parent>{75CC5CE4-8979-4008-9D3C-806477D57619}</parent>
+    <name>Sample Layout</name>
+    <master>{3F0E643C-3B9A-4E3F-961A-75057BA3C4E8}</master>
+    <template>{3A45A723-64EE-4919-9D41-02FD40FD1466}</template>
+    <templatekey>Layout</templatekey>
+    <sharedfields>
+      <field>
+        <fieldid>{A036B2BC-BA04-44F6-A75F-BAE6CD242ABF}</fieldid>
+        <fieldname>Path</fieldname>
+        <fieldkey>path</fieldkey>
+        <fieldvalue>/layouts/Sample Layout.aspx</fieldvalue>
+      </field>
+      <field>
+        <fieldid>{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}</fieldid>
+        <fieldname>__Sortorder</fieldname>
+        <fieldkey>__sortorder</fieldkey>
+        <fieldvalue>0</fieldvalue>
+      </field>
+      <field>
+        <fieldid>{56776EDF-261C-4ABC-9FE7-70C618795239}</fieldid>
+        <fieldname>__Help link</fieldname>
+        <fieldkey>__help link</fieldkey>
+        <fieldvalue>&lt;link/&gt;</fieldvalue>
+      </field>
+      <field>
+        <fieldid>{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}</fieldid>
+        <fieldname>__Security</fieldname>
+        <fieldkey>__security</fieldkey>
+        <fieldvalue></fieldvalue>
+      </field>
+    </sharedfields>
+    <versions>
+      <itemversion>
+        <version>1</version>
+        <language>da</language>
+        <revision>e3105322-bd20-4bb8-a1fd-4d897c4f48ce</revision>
+        <fields>
+          <field>
+            <fieldid>{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}</fieldid>
+            <fieldname>__Display name</fieldname>
+            <fieldkey>__display name</fieldkey>
+            <fieldvalue>Prøvelayout</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{52807595-0F8F-4B20-8D2A-CB71D28C6103}</fieldid>
+            <fieldname>__Owner</fieldname>
+            <fieldkey>__owner</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{25BED78C-4957-4165-998A-CA1B52F67497}</fieldid>
+            <fieldname>__Created</fieldname>
+            <fieldkey>__created</fieldkey>
+            <fieldvalue>20151207T115255Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}</fieldid>
+            <fieldname>__Created by</fieldname>
+            <fieldkey>__created by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>e3105322-bd20-4bb8-a1fd-4d897c4f48ce</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20151207T115255Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+      <itemversion>
+        <version>1</version>
+        <language>de-DE</language>
+        <revision>e0cdb095-e754-44d9-aecf-12f4a72724fb</revision>
+        <fields>
+          <field>
+            <fieldid>{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}</fieldid>
+            <fieldname>__Display name</fieldname>
+            <fieldkey>__display name</fieldkey>
+            <fieldvalue>Beispiel Layout</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{52807595-0F8F-4B20-8D2A-CB71D28C6103}</fieldid>
+            <fieldname>__Owner</fieldname>
+            <fieldkey>__owner</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{25BED78C-4957-4165-998A-CA1B52F67497}</fieldid>
+            <fieldname>__Created</fieldname>
+            <fieldkey>__created</fieldkey>
+            <fieldvalue>20151207T115419Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}</fieldid>
+            <fieldname>__Created by</fieldname>
+            <fieldkey>__created by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>e0cdb095-e754-44d9-aecf-12f4a72724fb</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20151207T115419Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+      <itemversion>
+        <version>1</version>
+        <language>en</language>
+        <revision>5492a15a-7d84-4b60-abea-c651129179bc</revision>
+        <fields>
+          <field>
+            <fieldid>{52807595-0F8F-4B20-8D2A-CB71D28C6103}</fieldid>
+            <fieldname>__Owner</fieldname>
+            <fieldkey>__owner</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}</fieldid>
+            <fieldname>__Created by</fieldname>
+            <fieldkey>__created by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>5492a15a-7d84-4b60-abea-c651129179bc</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20061003T103425</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>sitecore\Admin</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+      <itemversion>
+        <version>1</version>
+        <language>ja-JP</language>
+        <revision>4da229a9-6ae5-47e5-8fd4-04fd0887ebfb</revision>
+        <fields>
+          <field>
+            <fieldid>{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}</fieldid>
+            <fieldname>__Display name</fieldname>
+            <fieldkey>__display name</fieldkey>
+            <fieldvalue>サンプル レイアウト</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{52807595-0F8F-4B20-8D2A-CB71D28C6103}</fieldid>
+            <fieldname>__Owner</fieldname>
+            <fieldkey>__owner</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{25BED78C-4957-4165-998A-CA1B52F67497}</fieldid>
+            <fieldname>__Created</fieldname>
+            <fieldkey>__created</fieldkey>
+            <fieldvalue>20151207T115544Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}</fieldid>
+            <fieldname>__Created by</fieldname>
+            <fieldkey>__created by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>4da229a9-6ae5-47e5-8fd4-04fd0887ebfb</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20151207T115544Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+    </versions>
+  </item>
+</addItemCommand>

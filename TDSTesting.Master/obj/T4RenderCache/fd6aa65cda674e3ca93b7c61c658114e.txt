@@ -1,0 +1,76 @@
+//Revision: fb5df65a-28af-4154-b1a9-ac87835a0abc
+
+
+
+
+
+
+
+
+
+namespace TDSTesting.TDSTesting.sitecore.templates.Testing
+{
+
+
+ 	/// <summary>
+	/// ITdsTemplate Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Testing/TdsTemplate</para>	
+	/// <para>ID: fd6aa65c-da67-4e3c-a93b-7c61c658114e</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=ITdsTemplateConstants.TemplateIdString )] //, Cachable = true
+	public partial interface ITdsTemplate : IGlassBase 
+	{
+								/// <summary>
+					/// The Testing field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 85721cb6-cc1e-4e12-b222-f2479cfc284f</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(ITdsTemplateConstants.TestingFieldName)]
+					string Testing  {get; set;}
+			
+				}
+
+
+	public static partial class ITdsTemplateConstants{
+
+			public const string TemplateIdString = "fd6aa65c-da67-4e3c-a93b-7c61c658114e";
+			public static readonly ID TemplateId = new ID(TemplateIdString);
+			public const string TemplateName = "TdsTemplate";
+
+					
+			public static readonly ID TestingFieldId = new ID("85721cb6-cc1e-4e12-b222-f2479cfc284f");
+			public const string TestingFieldName = "Testing";
+			
+			
+
+	}
+
+	
+	/// <summary>
+	/// TdsTemplate
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Testing/TdsTemplate</para>	
+	/// <para>ID: fd6aa65c-da67-4e3c-a93b-7c61c658114e</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=ITdsTemplateConstants.TemplateIdString)] //, Cachable = true
+	public partial class TdsTemplate  : GlassBase, ITdsTemplate 
+	{
+	   
+						/// <summary>
+				/// The Testing field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 85721cb6-cc1e-4e12-b222-f2479cfc284f</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITdsTemplateConstants.TestingFieldName)]
+				public virtual string Testing  {get; set;}
+					
+			
+	}
+}
+

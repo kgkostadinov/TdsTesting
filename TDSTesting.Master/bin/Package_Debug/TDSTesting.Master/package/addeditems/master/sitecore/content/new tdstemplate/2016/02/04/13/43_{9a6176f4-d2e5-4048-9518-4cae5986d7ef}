@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addItemCommand>
+  <collisionbehavior>
+    <overwriteExisting>false</overwriteExisting>
+  </collisionbehavior>
+  <databasename>master</databasename>
+  <itemid>{9A6176F4-D2E5-4048-9518-4CAE5986D7EF}</itemid>
+  <itempath>/sitecore/content/New TdsTemplate/2016/02/04/13/43</itempath>
+  <parent>{C06CE969-BDB6-42A1-92EE-1DFB7373A03F}</parent>
+  <item>
+    <parent>{C06CE969-BDB6-42A1-92EE-1DFB7373A03F}</parent>
+    <name>43</name>
+    <master>{00000000-0000-0000-0000-000000000000}</master>
+    <template>{ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}</template>
+    <templatekey>Bucket</templatekey>
+    <sharedfields></sharedfields>
+    <versions>
+      <itemversion>
+        <version>1</version>
+        <language>en</language>
+        <revision></revision>
+        <fields></fields>
+      </itemversion>
+    </versions>
+  </item>
+</addItemCommand>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addItemCommand>
+  <collisionbehavior>
+    <overwriteExisting>false</overwriteExisting>
+  </collisionbehavior>
+  <databasename>master</databasename>
+  <itemid>{64308840-7662-40DF-9512-FA31712CAA2C}</itemid>
+  <itempath>/sitecore/content/TdsTemplatenonB/2016/02/04/13/33</itempath>
+  <parent>{5AFED457-85C0-4221-A677-D9F215D2B775}</parent>
+  <item>
+    <parent>{5AFED457-85C0-4221-A677-D9F215D2B775}</parent>
+    <name>33</name>
+    <master>{00000000-0000-0000-0000-000000000000}</master>
+    <template>{ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}</template>
+    <templatekey>Bucket</templatekey>
+    <sharedfields></sharedfields>
+    <versions>
+      <itemversion>
+        <version>1</version>
+        <language>en</language>
+        <revision>5541ca31-bd57-4710-b7bd-e4ac1c49a1f5</revision>
+        <fields>
+          <field>
+            <fieldid>{25BED78C-4957-4165-998A-CA1B52F67497}</fieldid>
+            <fieldname>__Created</fieldname>
+            <fieldkey>__created</fieldkey>
+            <fieldvalue>20160204T135048Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>5541ca31-bd57-4710-b7bd-e4ac1c49a1f5</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20160204T135048Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>sitecore\admin</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+    </versions>
+  </item>
+</addItemCommand>

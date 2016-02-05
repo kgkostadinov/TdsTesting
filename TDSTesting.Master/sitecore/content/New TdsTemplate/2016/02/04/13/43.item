@@ -1,0 +1,16 @@
+----item----
+version: 1
+id: {9A6176F4-D2E5-4048-9518-4CAE5986D7EF}
+database: master
+path: /sitecore/content/New TdsTemplate/2016/02/04/13/43
+parent: {C06CE969-BDB6-42A1-92EE-1DFB7373A03F}
+name: 43
+master: {00000000-0000-0000-0000-000000000000}
+template: {ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}
+templatekey: Bucket
+
+----version----
+language: en
+version: 1
+revision: 
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Testing" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate/Test" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate/Test/Testing" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/5555" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplate/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplate/TdsTemplate - Copy" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplate/TdsTemplate - Copy - Copy" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02/04" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02/04/13" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02/04/13/43" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02/04/13/43/Copy of New TdsTemplatess" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/New TdsTemplate/2016/02/04/13/43/New TdsTemplatess" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Testing/TdsTemplate/__Standard Values" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33" ItemIcon="/temp/IconCache/people/32x32/box_into.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33/5555" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+  <Item ItemPath="/sitecore/content/TdsTemplatenonB/2016/02/04/13/33/TdsTemplate" ItemIcon="/temp/IconCache/Applications/32x32/Document.png" />
+</ItemIconCache>

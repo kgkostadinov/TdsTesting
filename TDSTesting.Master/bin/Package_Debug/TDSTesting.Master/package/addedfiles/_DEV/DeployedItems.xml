@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeployedItems RecursiveDeployAction="Ignore">
+  <DeployedItem Id="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" Name="content.item" Parent="{11111111-1111-1111-1111-111111111111}" Database="master" />
+  <DeployedItem Id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" Name="Home.item" Parent="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" Database="master" />
+  <DeployedItem Id="{D8FC0721-ACDA-4E93-B318-AD70442A3BE2}" Name="l.item" Parent="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" Database="master" />
+  <DeployedItem Id="{7578D5CB-2666-4612-9BD1-A576DA28B384}" Name="ll.item" Parent="{D8FC0721-ACDA-4E93-B318-AD70442A3BE2}" Database="master" />
+  <DeployedItem Id="{F3670AA0-C4A9-4D0F-8B94-006212275AB3}" Name="TdsTemplate - Copy - Copy.item" Parent="{D8FC0721-ACDA-4E93-B318-AD70442A3BE2}" Database="master" />
+  <DeployedItem Id="{6E33FB4B-11BC-4164-8458-E32B71B37108}" Name="TdsTemplate - Copy.item" Parent="{D8FC0721-ACDA-4E93-B318-AD70442A3BE2}" Database="master" />
+  <DeployedItem Id="{8697A5BB-DF68-4586-88BF-BF4513631C82}" Name="New TdsTemplate.item" Parent="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{968CDC7A-7DB9-44F2-A320-1C5F37E19E7A}" Name="2016.item" Parent="{8697A5BB-DF68-4586-88BF-BF4513631C82}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{7454ADF1-2432-4D99-91AB-A0E0EDA5A4D0}" Name="02.item" Parent="{968CDC7A-7DB9-44F2-A320-1C5F37E19E7A}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{72BBA79E-C8D7-4892-8328-AE6926B77A95}" Name="04.item" Parent="{7454ADF1-2432-4D99-91AB-A0E0EDA5A4D0}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{C06CE969-BDB6-42A1-92EE-1DFB7373A03F}" Name="13.item" Parent="{72BBA79E-C8D7-4892-8328-AE6926B77A95}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{9A6176F4-D2E5-4048-9518-4CAE5986D7EF}" Name="43.item" Parent="{C06CE969-BDB6-42A1-92EE-1DFB7373A03F}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{7053EC1D-74A8-4A77-9152-683CFF70E9DE}" Name="Copy of New TdsTemplatess.item" Parent="{9A6176F4-D2E5-4048-9518-4CAE5986D7EF}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{1D57346C-96B0-4BE7-935E-DB1637C91B11}" Name="New TdsTemplatess.item" Parent="{9A6176F4-D2E5-4048-9518-4CAE5986D7EF}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{0A594D09-A05C-4530-8191-24BBA16C7FC8}" Name="TdsTemplatenonB.item" Parent="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{4EF402AD-9EFF-487D-824B-A4ACB1ADA838}" Name="2016.item" Parent="{0A594D09-A05C-4530-8191-24BBA16C7FC8}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{BA772853-AA52-4677-9863-95CE0E44149B}" Name="02.item" Parent="{4EF402AD-9EFF-487D-824B-A4ACB1ADA838}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{6EA1EE6F-4F87-4608-BD86-030247249017}" Name="04.item" Parent="{BA772853-AA52-4677-9863-95CE0E44149B}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{5AFED457-85C0-4221-A677-D9F215D2B775}" Name="13.item" Parent="{6EA1EE6F-4F87-4608-BD86-030247249017}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{64308840-7662-40DF-9512-FA31712CAA2C}" Name="33.item" Parent="{5AFED457-85C0-4221-A677-D9F215D2B775}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{300EE5B2-8ED3-42F0-9F5B-D9569A19F4D2}" Name="5555.item" Parent="{64308840-7662-40DF-9512-FA31712CAA2C}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{D299D47F-AFA7-4407-9297-EF9EC6DD9E8F}" Name="TdsTemplate.item" Parent="{64308840-7662-40DF-9512-FA31712CAA2C}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{3C1715FE-6A13-4FCF-845F-DE308BA9741D}" Name="templates.item" Parent="{11111111-1111-1111-1111-111111111111}" Database="master" />
+  <DeployedItem Id="{9133F960-027B-4C4A-87D4-4E8B5A1EA734}" Name="Testing.item" Parent="{3C1715FE-6A13-4FCF-845F-DE308BA9741D}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{FD6AA65C-DA67-4E3C-A93B-7C61C658114E}" Name="TdsTemplate.item" Parent="{9133F960-027B-4C4A-87D4-4E8B5A1EA734}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{AB851C44-D286-4EB4-BA27-5A397A11CA9E}" Name="__Standard Values.item" Parent="{FD6AA65C-DA67-4E3C-A93B-7C61C658114E}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{CC6C1F60-784E-4DB1-B1BE-8AEF11BFF51D}" Name="Test.item" Parent="{FD6AA65C-DA67-4E3C-A93B-7C61C658114E}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{85721CB6-CC1E-4E12-B222-F2479CFC284F}" Name="Testing.item" Parent="{CC6C1F60-784E-4DB1-B1BE-8AEF11BFF51D}" Database="master" KeepChildrenInSync="true" />
+  <DeployedItem Id="{EB2E4FFD-2761-4653-B052-26A64D385227}" Name="layout.item" Parent="{11111111-1111-1111-1111-111111111111}" Database="master" />
+  <DeployedItem Id="{75CC5CE4-8979-4008-9D3C-806477D57619}" Name="Layouts.item" Parent="{EB2E4FFD-2761-4653-B052-26A64D385227}" Database="master" />
+  <DeployedItem Id="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}" Name="Sample Layout.item" Parent="{75CC5CE4-8979-4008-9D3C-806477D57619}" Database="master" />
+</DeployedItems>

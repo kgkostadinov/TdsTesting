@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>1</id>
+    <version>1.0</version>
+    <title>Testing</title>
+    <authors>K. Kostadinov</authors>
+    <description>Testing</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content.item" target="content\sitecore\content.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\Home.item" target="content\sitecore\content\Home.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\l.item" target="content\sitecore\content\TdsTemplate.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\l\ll.item" target="content\sitecore\content\TdsTemplate\TdsTemplate.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\l\TdsTemplate - Copy - Copy.item" target="content\sitecore\content\TdsTemplate\TdsTemplate - Copy - Copy.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\l\TdsTemplate - Copy.item" target="content\sitecore\content\TdsTemplate\TdsTemplate - Copy.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate.item" target="content\sitecore\content\New TdsTemplate.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016.item" target="content\sitecore\content\New TdsTemplate\2016.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02.item" target="content\sitecore\content\New TdsTemplate\2016\02.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02\04.item" target="content\sitecore\content\New TdsTemplate\2016\02\04.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02\04\13.item" target="content\sitecore\content\New TdsTemplate\2016\02\04\13.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02\04\13\43.item" target="content\sitecore\content\New TdsTemplate\2016\02\04\13\43.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02\04\13\43\Copy of New TdsTemplatess.item" target="content\sitecore\content\New TdsTemplate\2016\02\04\13\43\Copy of New TdsTemplatess.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\New TdsTemplate\2016\02\04\13\43\New TdsTemplatess.item" target="content\sitecore\content\New TdsTemplate\2016\02\04\13\43\New TdsTemplatess.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB.item" target="content\sitecore\content\TdsTemplatenonB.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016.item" target="content\sitecore\content\TdsTemplatenonB\2016.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02.item" target="content\sitecore\content\TdsTemplatenonB\2016\02.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02\04.item" target="content\sitecore\content\TdsTemplatenonB\2016\02\04.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02\04\13.item" target="content\sitecore\content\TdsTemplatenonB\2016\02\04\13.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02\04\13\33.item" target="content\sitecore\content\TdsTemplatenonB\2016\02\04\13\33.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02\04\13\33\5555.item" target="content\sitecore\content\TdsTemplatenonB\2016\02\04\13\33\5555.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\content\TdsTemplatenonB\2016\02\04\13\33\TdsTemplate.item" target="content\sitecore\content\TdsTemplatenonB\2016\02\04\13\33\TdsTemplate.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates.item" target="content\sitecore\templates.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates\Testing.item" target="content\sitecore\templates\Testing.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates\Testing\TdsTemplate.item" target="content\sitecore\templates\Testing\TdsTemplate.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates\Testing\TdsTemplate\__Standard Values.item" target="content\sitecore\templates\Testing\TdsTemplate\__Standard Values.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates\Testing\TdsTemplate\Test.item" target="content\sitecore\templates\Testing\TdsTemplate\Test.item" />
+    <file src="D:\TDSTesting\TDSTesting\TDSTesting.Master\sitecore\templates\Testing\TdsTemplate\Test\Testing.item" target="content\sitecore\templates\Testing\TdsTemplate\Test\Testing.item" />
+    <file src="ItemDeployProp.xml" target="content\ItemDeployProp.xml" />
+  </files>
+</package>

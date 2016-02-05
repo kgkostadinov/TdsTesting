@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addItemCommand>
+  <collisionbehavior>
+    <overwriteExisting>false</overwriteExisting>
+  </collisionbehavior>
+  <databasename>master</databasename>
+  <itemid>{8697A5BB-DF68-4586-88BF-BF4513631C82}</itemid>
+  <itempath>/sitecore/content/New TdsTemplate</itempath>
+  <parent>{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}</parent>
+  <item>
+    <parent>{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}</parent>
+    <name>New TdsTemplate</name>
+    <master>{00000000-0000-0000-0000-000000000000}</master>
+    <template>{FD6AA65C-DA67-4E3C-A93B-7C61C658114E}</template>
+    <templatekey>TdsTemplate</templatekey>
+    <sharedfields>
+      <field>
+        <fieldid>{A0CB3965-8884-4C7A-8815-B6B2E5CED162}</fieldid>
+        <fieldname>__Editors</fieldname>
+        <fieldkey>__editors</fieldkey>
+        <fieldvalue>{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}</fieldvalue>
+      </field>
+      <field>
+        <fieldid>{D312103C-B36C-4CA5-864A-C85F9ABDA503}</fieldid>
+        <fieldname>__Is Bucket</fieldname>
+        <fieldkey>__is bucket</fieldkey>
+        <fieldvalue>1</fieldvalue>
+      </field>
+    </sharedfields>
+    <versions>
+      <itemversion>
+        <version>1</version>
+        <language>en</language>
+        <revision>fa585150-c4b0-41e4-9f4a-71be3b978ca8</revision>
+        <fields>
+          <field>
+            <fieldid>{25BED78C-4957-4165-998A-CA1B52F67497}</fieldid>
+            <fieldname>__Created</fieldname>
+            <fieldkey>__created</fieldkey>
+            <fieldvalue>20160204T134330Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{8CDC337E-A112-42FB-BBB4-4143751E123F}</fieldid>
+            <fieldname>__Revision</fieldname>
+            <fieldkey>__revision</fieldkey>
+            <fieldvalue>fa585150-c4b0-41e4-9f4a-71be3b978ca8</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}</fieldid>
+            <fieldname>__Updated</fieldname>
+            <fieldkey>__updated</fieldkey>
+            <fieldvalue>20160204T134349Z</fieldvalue>
+          </field>
+          <field>
+            <fieldid>{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}</fieldid>
+            <fieldname>__Updated by</fieldname>
+            <fieldkey>__updated by</fieldkey>
+            <fieldvalue>default\Anonymous</fieldvalue>
+          </field>
+        </fields>
+      </itemversion>
+    </versions>
+  </item>
+</addItemCommand>
