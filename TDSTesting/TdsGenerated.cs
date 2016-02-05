@@ -64,6 +64,146 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 
 
  	/// <summary>
+	/// IA_New_Template Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Testing/A new Template</para>	
+	/// <para>ID: e974ac12-1313-4bfd-bb61-c0d943a2c67a</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IA_New_TemplateConstants.TemplateIdString )] //, Cachable = true
+	public partial interface IA_New_Template : IGlassBase 
+	{
+								/// <summary>
+					/// The First field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: fb1aa7f4-6cd9-447f-9cdb-564a6299229b</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IA_New_TemplateConstants.FirstFieldName)]
+					string First  {get; set;}
+			
+								/// <summary>
+					/// The Fourth field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 27e6f98a-a6ba-4e1f-874f-e1b5414bec80</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IA_New_TemplateConstants.FourthFieldName)]
+					string Fourth  {get; set;}
+			
+								/// <summary>
+					/// The Second field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 30530e87-81d5-4b65-9d89-2f9a608a5262</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IA_New_TemplateConstants.SecondFieldName)]
+					string Second  {get; set;}
+			
+								/// <summary>
+					/// The Third field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 86360e6e-1714-4b35-a3b2-3b54c28fc3be</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IA_New_TemplateConstants.ThirdFieldName)]
+					string Third  {get; set;}
+			
+				}
+
+
+	public static partial class IA_New_TemplateConstants{
+
+			public const string TemplateIdString = "e974ac12-1313-4bfd-bb61-c0d943a2c67a";
+			public static readonly ID TemplateId = new ID(TemplateIdString);
+			public const string TemplateName = "A new Template";
+
+					
+			public static readonly ID FirstFieldId = new ID("fb1aa7f4-6cd9-447f-9cdb-564a6299229b");
+			public const string FirstFieldName = "First";
+			
+					
+			public static readonly ID FourthFieldId = new ID("27e6f98a-a6ba-4e1f-874f-e1b5414bec80");
+			public const string FourthFieldName = "Fourth";
+			
+					
+			public static readonly ID SecondFieldId = new ID("30530e87-81d5-4b65-9d89-2f9a608a5262");
+			public const string SecondFieldName = "Second";
+			
+					
+			public static readonly ID ThirdFieldId = new ID("86360e6e-1714-4b35-a3b2-3b54c28fc3be");
+			public const string ThirdFieldName = "Third";
+			
+			
+
+	}
+
+	
+	/// <summary>
+	/// A_New_Template
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Testing/A new Template</para>	
+	/// <para>ID: e974ac12-1313-4bfd-bb61-c0d943a2c67a</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IA_New_TemplateConstants.TemplateIdString)] //, Cachable = true
+	public partial class A_New_Template  : GlassBase, IA_New_Template 
+	{
+	   
+						/// <summary>
+				/// The First field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: fb1aa7f4-6cd9-447f-9cdb-564a6299229b</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IA_New_TemplateConstants.FirstFieldName)]
+				public virtual string First  {get; set;}
+					
+						/// <summary>
+				/// The Fourth field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 27e6f98a-a6ba-4e1f-874f-e1b5414bec80</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IA_New_TemplateConstants.FourthFieldName)]
+				public virtual string Fourth  {get; set;}
+					
+						/// <summary>
+				/// The Second field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 30530e87-81d5-4b65-9d89-2f9a608a5262</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IA_New_TemplateConstants.SecondFieldName)]
+				public virtual string Second  {get; set;}
+					
+						/// <summary>
+				/// The Third field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 86360e6e-1714-4b35-a3b2-3b54c28fc3be</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IA_New_TemplateConstants.ThirdFieldName)]
+				public virtual string Third  {get; set;}
+					
+			
+	}
+}
+namespace TDSTesting.TDSTesting.sitecore.templates.Testing
+{
+
+
+ 	/// <summary>
 	/// ITdsTemplate Interface
 	/// <para></para>
 	/// <para>Path: /sitecore/templates/Testing/TdsTemplate</para>	
@@ -82,6 +222,26 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 					[SitecoreField(ITdsTemplateConstants.TestingFieldName)]
 					string Testing  {get; set;}
 			
+								/// <summary>
+					/// The Wup field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 2c7fa073-f071-4a97-9899-6e5dc31bbff1</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(ITdsTemplateConstants.WupFieldName)]
+					string Wup  {get; set;}
+			
+								/// <summary>
+					/// The Wurf field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: 66d222e7-88dd-4257-97e0-8934487796db</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(ITdsTemplateConstants.WurfFieldName)]
+					string Wurf  {get; set;}
+			
 				}
 
 
@@ -94,6 +254,14 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 					
 			public static readonly ID TestingFieldId = new ID("85721cb6-cc1e-4e12-b222-f2479cfc284f");
 			public const string TestingFieldName = "Testing";
+			
+					
+			public static readonly ID WupFieldId = new ID("2c7fa073-f071-4a97-9899-6e5dc31bbff1");
+			public const string WupFieldName = "Wup";
+			
+					
+			public static readonly ID WurfFieldId = new ID("66d222e7-88dd-4257-97e0-8934487796db");
+			public const string WurfFieldName = "Wurf";
 			
 			
 
@@ -120,6 +288,28 @@ namespace TDSTesting.TDSTesting.sitecore.templates.Testing
 				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
 				[SitecoreField(ITdsTemplateConstants.TestingFieldName)]
 				public virtual string Testing  {get; set;}
+					
+						/// <summary>
+				/// The Wup field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 2c7fa073-f071-4a97-9899-6e5dc31bbff1</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITdsTemplateConstants.WupFieldName)]
+				public virtual string Wup  {get; set;}
+					
+						/// <summary>
+				/// The Wurf field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: 66d222e7-88dd-4257-97e0-8934487796db</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITdsTemplateConstants.WurfFieldName)]
+				public virtual string Wurf  {get; set;}
 					
 			
 	}
