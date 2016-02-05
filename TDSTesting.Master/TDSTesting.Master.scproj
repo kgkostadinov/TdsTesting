@@ -51,7 +51,7 @@
     <PackageVersion>1.0</PackageVersion>
     <PackageReadme>&amp;lt;h2&amp;gt;Test&amp;lt;/h2&amp;gt;</PackageReadme>
     <SitecoreAssemblyPath>C:\inetpub\wwwroot\TDSTesting\Website\bin</SitecoreAssemblyPath>
-    <GeneratePackage>True</GeneratePackage>
+    <GeneratePackage>False</GeneratePackage>
     <SeperateFilesAndItems>False</SeperateFilesAndItems>
     <PackageExcludeCode>False</PackageExcludeCode>
     <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
@@ -220,11 +220,6 @@
     <CodeGenTemplate Include="Code Generation Templates\StringExtensions.tt" />
     <CodeGenTemplate Include="Code Generation Templates\VelirHeader.tt" />
     <CodeGenTemplate Include="Code Generation Templates\VelirItem.tt" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundledProject Include="..\TDSProject1\TDSProject1.scproj">
-      <ProjectId>{2ba6e74d-5dd7-4039-b0f2-5b497ff658fa}</ProjectId>
-    </BundledProject>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" Condition="Exists('$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets')" />
 </Project>
